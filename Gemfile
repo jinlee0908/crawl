@@ -10,6 +10,7 @@ gem 'coffee-rails', '4.0.1' # Use Uglifier as compressor for JavaScript assets
 gem 'jquery-rails', '3.0.4' # Use jquery as the JavaScript library
 gem 'turbolinks', '1.1.1' # Turbolinks makes following links in your web application faster.
 gem 'jbuilder', '1.0.2' # Build JSON APIs with ease.
+gem 'yelp', '2.0.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'

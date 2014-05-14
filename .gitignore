@@ -14,5 +14,14 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Additional files to ignore. 
+
 .DS_Store
 .secret
+.project
+.idea
+doc/
+*.swp
+*~
+bundler_stubs/
